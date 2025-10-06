@@ -1,3 +1,22 @@
+## 🎯 Por que entender os estilos de arquitetura?
+
+A escolha do estilo arquitetural de um sistema não é só uma questão de gosto — ela define como o software se comporta, evolui e sobrevive ao caos do mundo real. Aqui estão os principais motivos para estudar e aplicar estilos de arquitetura com consciência:
+
+1. ✅ **Facilita a compreensão do sistema**  
+   Ajuda todos os envolvidos a entenderem como as partes se conectam e funcionam.
+
+2. 🧩 **Permite a organização do desenvolvimento**  
+   Estrutura o projeto em módulos claros, tornando o trabalho em equipe mais eficiente.
+
+3. 🔧 **Possibilita a evolução e manutenção**  
+   Sistemas bem arquitetados são mais fáceis de atualizar, escalar e corrigir.
+
+4. 🔐 **Influencia atributos de qualidade**  
+   Impacta diretamente em desempenho, segurança, escalabilidade e confiabilidade.
+
+5. 🛡️ **Reduz riscos técnicos e de negócios**  
+   Evita decisões erradas que podem comprometer o projeto ou gerar prejuízos.
+
 ## 🧩 Estilos de Arquitetura de Sistemas
 
 | 🏗️ Estilo             | 🔍 Características                                           | 🌟 Vantagens                                              | ⚠️ Desvantagens                             |
@@ -9,7 +28,7 @@
 | 📡 Baseada em eventos  | Comunicação baseada em eventos                               | Desacoplamento, processamento assíncrono                   | Rastreamento complexo                        |
 
 
-📚 Entendendo os Estilos de Arquitetura (sem enrolação)
+## 📚 Entendendo os Estilos de Arquitetura (sem enrolação)
 
 A tabela acima apresenta os principais estilos de arquitetura de sistemas que você vai encontrar por aí — seja em projetos acadêmicos ou em produção real. Cada estilo tem sua lógica, seus superpoderes e seus pontos fracos. Vamos destrinchar:
 
