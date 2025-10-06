@@ -3,9 +3,13 @@
 Sistema de delivery desenvolvido com Spring Boot e Java 21.
 
 ## 🧩 Arquitetura do Sistemas
+
 Inicialmente em Camadas com Spring Boot
+
 Evolução para Microserviçios em ciclos posteriores
+
 Comunicação REST entre clente e servidor
+
 Uso de eventos para operações assícronas
 
 ## 🚀 Tecnologias
