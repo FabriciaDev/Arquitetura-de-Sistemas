@@ -1,3 +1,25 @@
+## 🔍 Conceitos Fundamentais de Arquitetura de Sistemas
+
+Nesta etapa, foram explorados os principais pilares da arquitetura de software:
+
+Arquitetura em Camadas Separação clara entre as responsabilidades de apresentação (interface), negócio (lógica) e persistência (dados). Isso facilita a manutenção e a escalabilidade do sistema.
+
+* Padrão MVC (Model-View-Controller) Organiza o código em três partes distintas:
+
+* Model: representa os dados e regras de negócio
+
+* View: interface com o usuário
+
+* Controller: intermediário que recebe requisições e coordena as respostas
+
+* Princípios SOLID Conjunto de boas práticas para design de código orientado a objetos. Eles promovem flexibilidade, reutilização e facilidade de manutenção.
+
+* Clean Architecture Propõe uma estrutura onde as regras de negócio ficam no centro, isoladas de frameworks e tecnologias externas. Isso garante independência e longevidade ao sistema.
+
+* Documentação Arquitetural Uso de diagramas UML e registro de decisões técnicas para garantir clareza e alinhamento entre os membros da equipe.
+
+⚙️ Ferramentas Utilizadas
+
 ## 🎯 Por que entender os estilos de arquitetura?
 
 A escolha do estilo arquitetural de um sistema não é só uma questão de gosto — ela define como o software se comporta, evolui e sobrevive ao caos do mundo real. Aqui estão os principais motivos para estudar e aplicar estilos de arquitetura com consciência:
