@@ -18,8 +18,6 @@ Arquitetura em Camadas Separação clara entre as responsabilidades de apresenta
 
 * Documentação Arquitetural Uso de diagramas UML e registro de decisões técnicas para garantir clareza e alinhamento entre os membros da equipe.
 
-⚙️ Ferramentas Utilizadas
-
 ## 🎯 Por que entender os estilos de arquitetura?
 
 A escolha do estilo arquitetural de um sistema não é só uma questão de gosto — ela define como o software se comporta, evolui e sobrevive ao caos do mundo real. Aqui estão os principais motivos para estudar e aplicar estilos de arquitetura com consciência:
