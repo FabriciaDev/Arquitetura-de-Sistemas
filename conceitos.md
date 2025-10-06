@@ -68,6 +68,37 @@ Uso de diagramas UML e registro de decisões técnicas para:
 
 Aplicação prática dos conceitos na organização do projeto:
 
-'
-com.delivery.web // Controllers RESTful com.delivery.service // Lógica de negócio com.delivery.repository // Acesso a dados com JPA
-'
+´´´
+com.delivery.web // Controllers RESTful 
+com.delivery.service // Lógica de negócio 
+com.delivery.repository // Acesso a dados com JPA
+
+´´´
+
+✅ *Essa estrutura facilita a navegação, manutenção e escalabilidade do código.*
+
+---
+
+## ⚙️ Tecnologias Aplicadas
+
+- **Spring Boot**: framework principal
+- **Spring MVC**: camada web
+- **Spring Data JPA**: persistência de dados
+- **Thymeleaf**: templates HTML
+- **Swagger/OpenAPI**: documentação automática
+- **Docker**: containerização e consistência entre ambientes
+- **Git**: controle de versão com branches organizados
+
+---
+
+## 🧪 Aplicações no Projeto
+
+- Estruturação do projeto em pacotes organizados  
+- Definição de contratos claros entre camadas  
+- Implementação de controllers RESTful  
+- Criação de entidades JPA bem modeladas  
+- Documentação das decisões arquiteturais com UML
+
+---
+
+Este conjunto de conceitos forma a base sólida sobre a qual o sistema de delivery está sendo construído. Cada escolha técnica foi feita com foco em **qualidade, clareza e evolução contínua**.
