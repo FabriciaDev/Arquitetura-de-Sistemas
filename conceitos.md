@@ -68,12 +68,12 @@ Uso de diagramas UML e registro de decisões técnicas para:
 
 Aplicação prática dos conceitos na organização do projeto:
 
-` ` `
+```
 
 com.delivery.web // Controllers RESTful 
 com.delivery.service // Lógica de negócio 
 com.delivery.repository // Acesso a dados com JPA
-` ` `
+```
 
 
 ✅ *Essa estrutura facilita a navegação, manutenção e escalabilidade do código.*
