@@ -1,6 +1,8 @@
 # 🧠 Conceitos Utilizados no Projeto de Delivery
 
-Este documento reúne os principais conceitos técnicos e arquiteturais aplicados no desenvolvimento do sistema de delivery, com base na disciplina de Arquitetura de Sistemas. Cada item aqui foi escolhido para garantir **organização, escalabilidade, segurança e manutenibilidade** da aplicação.
+Este documento reúne os principais conceitos técnicos e arquiteturais aplicados no desenvolvimento do sistema de delivery, com base na disciplina de Arquitetura de Sistemas. Cada item foi escolhido para garantir **organização, escalabilidade, segurança e manutenibilidade** da aplicação.
+
+> Os conceitos aqui descritos foram aplicados diretamente no projeto, utilizando o framework **Spring Boot** e uma estrutura em camadas que reflete boas práticas de desenvolvimento moderno.
 
 ---
 
@@ -62,17 +64,10 @@ Uso de diagramas UML e registro de decisões técnicas para:
 
 ---
 
-## ⚙️ Tecnologias Aplicadas
+## 📦 Estrutura de Pacotes
 
-- **Spring Boot**: framework principal
-- **Spring MVC**: camada web
-- **Spring Data JPA**: persistência de dados
-- **Thymeleaf**: templates HTML
-- **Swagger/OpenAPI**: documentação automática
-- **Docker**: containerização e consistência entre ambientes
-- **Git**: controle de versão com branches organizados
+Aplicação prática dos conceitos na organização do projeto:
 
----
-
-Este conjunto de conceitos forma a base sólida sobre a qual o sistema de delivery está sendo construído. Cada escolha técnica foi feita com foco em **qualidade, clareza e escalabilidade**.
-
+'
+com.delivery.web // Controllers RESTful com.delivery.service // Lógica de negócio com.delivery.repository // Acesso a dados com JPA
+'
